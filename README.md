@@ -23,7 +23,7 @@ Brief description of what the session will be covering, including any links out 
 
 Anything that will be needed for the session (API keys, active cloud shell session, git, etc)
 
- * [Thing][[link 1] 
+ * [Thing][link 1] 
  * 
 
 ## Demo 
